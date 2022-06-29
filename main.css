@@ -1,0 +1,196 @@
+@media screen and (max-width:1190px){
+    #bmnm{
+        display: block;
+        position: absolute;
+        bottom: -20px;
+        max-width: 100%;
+        height: auto; 
+        position: absolute;
+        bottom: -390px;
+    }
+    body{
+        width: 100%;
+        box-sizing: border-box;
+    }
+    #bigpop{
+        height: 60px;
+        width: 90px;
+    }
+    h1{
+        font-size: larger;
+    position: relative
+    ;
+    bottom: 20px;
+    }
+    h1:hover{
+        color: blue;
+    }
+    #nnd{
+        display: none;
+    }
+    #new{
+        display: block;
+        width: 100%;
+
+    }
+    #o{
+        display: none;
+    }
+    #p{
+        display: none;
+    }
+    #w{
+        display: none;
+    }
+    #third{
+        display: none;
+    }
+    #li{
+        position: absolute;
+        left: -42px;
+        font-size: medium;
+    }
+    #wi{
+        position: absolute;
+        left: 62px;
+        font-size: medium;
+    }
+    #ci{
+        position: absolute;
+        left: 152px;
+        font-size: medium;
+    }
+    #di{
+        position: absolute;
+        left: 272px;
+        font-size: medium;
+    }
+    #form{
+        display: none;
+    }
+    #main3{
+        position: absolute;
+        left: 0px;
+    }
+    #first1{
+        position: relative;
+        right: 350px;
+        display: block;
+        width: 50%;
+        height: 39px;
+        border-radius: 5px;
+    }
+    #first2{
+        position: relative;
+        right: 150px;
+        display: block;
+        width: 50%;
+        height: 39px;
+        border-radius: 5px;
+        margin-top: 20px;
+    }
+   
+    h3{
+        display: block;
+       font-size: medium;
+       white-space: nowrap;
+       position: relative;
+       top: -60px;
+       left: 50px;
+       margin-left: 50px;
+        color: rgb(208, 23, 237);
+        font-weight: lighter;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+  h4{
+    display: inline-block;
+    position: relative
+    ;
+    top: -75px;
+    left: 40px;
+  color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  #alge{
+    display: inline-block;
+    position: relative
+    ;
+    top: -15px;
+    left: 30px;
+  color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-ser
+  }
+#main3{
+    height: 200px;
+    
+}
+#dac{
+    max-width: 100%;
+    height: auto;
+    position: relative;
+    top: 250px;
+    left: -2px;
+}
+#sdc{
+    max-width: 100%;
+    height: auto;
+}
+#poi{
+    display: none;
+}
+  #poi1{
+    display: none;
+  }
+#para2{
+    display: none;
+}
+#par09{
+    display: none;
+}
+#opop{
+    display: none;
+}
+#naa{
+    max-width: 100%;
+    height: auto; 
+}
+#lastfo{
+    display: none;
+}
+#para{
+    display: none;
+}
+#notop{
+    display: none;
+}
+}
+@media screen and (max-width:590px){
+    body{
+        max-width: 100%;
+        box-sizing: content-box;
+        height: 2000px;
+    }
+    #li{
+             font-size: small;
+             margin-left: 60px;
+    }
+    #wi{
+        font-size: small;
+        margin-left: 50px;
+    }
+   #ci{
+    font-size: small;
+    margin-left: 50px;
+   }
+   #di{
+    font-size: x-small;
+    margin-left: 20px;
+   }
+   h4{
+    position: absolute;
+    left: 20px;
+    white-space: nowrap;
+   }
+
+  
+}

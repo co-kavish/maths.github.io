@@ -1,0 +1,64 @@
+<html>
+<head>
+<title>this is my file in notepad ++</title>
+<style> 
+#paragraph{
+color : red ;
+}
+</style>
+
+</head>
+
+<body>  
+my name is kavish jindal so guys I m using this software good op bolte 
+
+<h1>my name is kavish </h1>
+<h2>my name is kavish</h2>
+<h3>my name is kavish</h3>
+
+<p id = "paragraph">
+this is a paragraph and I m weiting it with full dedication ok right 
+</p><br>
+<details>
+this is a detail 
+</details>
+
+<p>   <sub>123</sub> <sup>890</sup>   here I Have written superscript          </p>
+<p>5 <sub>23</sub>   <sup>12098463756</sup></p>
+
+
+
+
+<ul type ="A">
+<li>this is an unordered list 
+</li>
+<li>my name is kavish </li>
+<li>my roll no. is 18 </li>
+<li>I am studying in  class 8 </li>
+</ul>
+
+
+
+<ol type ="I">
+
+
+<li>this is an ordered list </li>
+<li>here the lists will come in no. and will be properly as certained . </li>
+<li>I AM<b> DOING HTML</b> </li>
+
+</ol>
+
+<img src = "url" url ="https://media.istockphoto.com/photos/mountain-landscape-picture-id517188688?k=20&m=517188688&s=612x612&w=0&h=i38qBm2P-6V4vZVEaMy_TaTEaoCMkYhvLCysE7yJQ5Q=">
+
+</body>
+
+
+
+</html>
+
+
+
+
+
+
+
